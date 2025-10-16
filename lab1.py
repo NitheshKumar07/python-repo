@@ -4,3 +4,4 @@
 # print(str,type(str))
 
 print("saying hello to jenkins via github")
+print('ok, new vetrsion v2')
